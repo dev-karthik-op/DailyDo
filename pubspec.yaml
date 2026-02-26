@@ -36,13 +36,6 @@ dependencies:
   cupertino_icons: ^1.0.8
   provider: ^6.1.5
   google_fonts: ^6.2.1
-  font_awesome_flutter: ^10.8.0
-  line_icons: ^2.0.3
-  flutter_vector_icons: ^2.0.0
-  convex_bottom_bar: ^3.2.0
-  bottom_navy_bar: ^6.1.0
-  get: ^4.7.2
-  animated_bottom_navigation_bar: ^1.4.0
   isar: ^3.1.0+1
   isar_flutter_libs: ^3.1.0+1
   path_provider: ^2.1.5
